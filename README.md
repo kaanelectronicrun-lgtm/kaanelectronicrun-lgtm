@@ -1,6 +1,6 @@
 # Kaan Akcan
 
-**Software & Applied AI Engineer** — Python, TypeScript, C++ and computer vision, backed by an Electrical & Electronics Engineering foundation.
+**Electronics Hardware Design Engineer | Applied AI** — schematic-to-production PCB design, power electronics and EMC, with Python, TypeScript, C++ and AI-assisted engineering tools.
 
 I build complete engineering products: AI-backed APIs, computer-vision pipelines, simulation tools and native desktop applications. My work emphasizes measurable evaluation, testable architecture and delivery beyond the prototype stage.
 
